@@ -1,0 +1,15 @@
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/bin/Debug/net7.0/calculatorinc
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/bin/Debug/net7.0/calculatorinc.deps.json
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/bin/Debug/net7.0/calculatorinc.runtimeconfig.json
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/bin/Debug/net7.0/calculatorinc.dll
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/bin/Debug/net7.0/calculatorinc.pdb
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/obj/Debug/net7.0/calculatorinc.csproj.AssemblyReference.cache
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/obj/Debug/net7.0/calculatorinc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/obj/Debug/net7.0/calculatorinc.AssemblyInfoInputs.cache
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/obj/Debug/net7.0/calculatorinc.AssemblyInfo.cs
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/obj/Debug/net7.0/calculatorinc.csproj.CoreCompileInputs.cache
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/obj/Debug/net7.0/calculatorinc.dll
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/obj/Debug/net7.0/refint/calculatorinc.dll
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/obj/Debug/net7.0/calculatorinc.pdb
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/obj/Debug/net7.0/calculatorinc.genruntimeconfig.cache
+/Users/sushanbaniya/Desktop/dotnet/calculatorinc/calculatorinc/obj/Debug/net7.0/ref/calculatorinc.dll
